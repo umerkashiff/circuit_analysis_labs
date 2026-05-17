@@ -5,7 +5,7 @@
 [![Course](https://img.shields.io/badge/Course-Electrical_Networks-2C2C2C?style=for-the-badge)]()
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Op-Amp_Inverting_Amplifier.svg/500px-Op-Amp_Inverting_Amplifier.svg.png" alt="Operational Amplifier Topology" width="400">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Op-Amp_Inverting_Amplifier.svg/500px-Op-Amp_Inverting_Amplifier.svg.png](https://miro.medium.com/0*v9HoBe1g2EZ8jOPp.png)" alt="p=Proteus Logo" width="400">
   <br>
   <em>System-level and component-level circuit simulation topologies.</em>
 </div>
@@ -23,6 +23,7 @@ The repository enforces a strict, modular hierarchy to separate procedural guide
 │   ├── lab-manual/            # Official procedural documentation and pre-lab requirements
 │   ├── lab-report/            # Formal documentation including calculated vs. simulated telemetry
 │   └── proteus-files/         # .pdsprj workspace files and associated simulation dependencies
+````
 ## Laboratory Index
 
 The coursework is divided into logical phases, progressing from passive linear circuits to active signal processing.
